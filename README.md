@@ -60,6 +60,12 @@ helllo
 ~~~
 
 ## OUPUT
+
+<img width="850" height="157" alt="image" src="https://github.com/user-attachments/assets/045b62e5-ed32-46e0-9870-646e5b2f5315" />
+<img width="821" height="127" alt="image" src="https://github.com/user-attachments/assets/bfb4fc22-f11b-428a-818d-61e9335719b9" />
+<img width="592" height="170" alt="image" src="https://github.com/user-attachments/assets/00f4f5a6-7fcd-4f8b-b10c-37b35352e1b5" />
+<img width="537" height="122" alt="image" src="https://github.com/user-attachments/assets/66beedfa-90f6-45be-9927-041db07d87ce" />
+
+
 ## RESULT
-Thus, the python program for creating File Transfer using TCP Sockets Links was 
-successfully created and executed.
+Thus, the python program for creating File Transfer using TCP Sockets Links was successfully created and executed.
